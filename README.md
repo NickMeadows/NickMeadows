@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NickMeadows
 - 👀 I’m interested in Data Science, R, Python, Machine Learning, Neural Networks, App Development, Augmented Reality, General Programming and Software Engineering
-- 🌱 I’m currently learning Analytic Techniques
+- 🌱 I’m currently looking for opportunities
 - 💞️ I’m looking to collaborate on any projects, especially involving data.
 - 📫 Reach me on twitter @NickGMeadows or Stack Overflow @NickGreyM
 
